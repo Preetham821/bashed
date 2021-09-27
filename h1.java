@@ -3,6 +3,6 @@ class main{
 	{
 		Scanner s = new Scanner(System.in);
 	}
-	
+	How is the fact that it changes
 }
 
